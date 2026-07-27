@@ -1,0 +1,15 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDEs & Editors
+.idea/
+.vscode/
+*.iml
+
+# Build outputs
+**/target/
+**/node_modules/
+**/build/
+*.jar
+*.log
